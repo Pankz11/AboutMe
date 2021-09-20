@@ -1,2 +1,2 @@
 # AboutMe
-About me and My Organisation PRD IT Solutions
+About me and My Organisation Itanium Software and Services
